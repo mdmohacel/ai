@@ -1,5 +1,5 @@
 HELP.md
-target/
+/target/*
 !/target/ai.jar
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
